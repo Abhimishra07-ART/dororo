@@ -1,0 +1,245 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#abhi1{
+    
+    border: 3px solid;
+   
+    border-radius: 10px;
+    align-items: center;
+    height: 190px;
+    width: 450px;
+    margin-left: 40%;
+    
+    
+}
+#abhi2{
+    
+    color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+  text-align: center;
+  justify-content: center;
+
+}
+#but{
+    text-decoration: none;
+    margin-left: 15px;
+    height: 30px;
+    width: 70px;
+    color: white;
+
+}
+#abhi3{
+    color: black;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#abhi4{
+    color: black;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#abhi5{
+    display: flex;
+    color: black;
+    padding-left: 10px;
+    padding-top: 10px;
+    justify-content: center;
+}
+#sum{
+    color: rgb(159, 35, 35);;
+    text-decoration: none;
+
+}
+#six{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid;
+    border-color: antiquewhite;
+    color: white;
+    background-color:rgb(159, 35, 35) ;
+    
+}
+#six:hover{
+     font-size: large;
+    font-weight: 600;
+    color: rgb(0, 0, 0)
+}
+#navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(159, 35, 35);
+    color: aliceblue;
+margin-bottom: 100px;
+
+}
+
+#one {
+    font-size: large;
+    font-weight: 600;
+    
+
+    padding-right: 15px;
+
+
+}
+
+/* #two {
+    font-size: large;
+    font-weight: 600;
+    width: 220px;
+} */
+
+#three {
+    font-size: large;
+    font-weight: 600;
+    width: 219px;
+    
+}
+
+#one:hover {
+    background-color: aliceblue;
+    height: 50px;
+    padding-top: 15px;
+    transform: scale(1.2);
+
+
+}
+#HOME{
+    height:60px ;
+    width: 150px;
+}
+
+#two:hover {
+    background-color: aliceblue;
+    color: black;
+    width: 160px;
+    height: 50px;
+    padding-top: 18px;
+    padding-left: 12px;
+    border-radius: 100PX;
+    align-items: center;
+
+
+}
+
+#three:hover {
+    background-color: aliceblue;
+    color: black;
+    width: 219px;
+    height: 50px;
+    padding-top: 18px;
+    padding-right: 0px;
+    
+    align-items: center;
+
+
+
+}
+
+#ee:hover {
+    /* border-radius: 10PX; */
+    background-color: aliceblue;
+    color: black;
+    
+    height: 50px;
+    padding-top: 16px;
+    padding-left: 5px;
+    text-decoration: none;
+    align-items: center;
+}
+
+#ee {
+    font-size: large;
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+    width: 170px;
+
+}
+
+#blood {
+    /* background-color: aliceblue; */
+    color: black;
+    width: 250px;
+    height: 50px;
+    padding-top: 15px;
+    padding-left: 18px;
+    text-decoration: none;
+    align-items: center;
+}
+
+#blood:hover {
+    font-size: large;
+    font-weight: 600;
+
+    color: rgb(0, 0, 0)
+        /* text-decoration: none; */
+
+}
+
+#four {
+    font-size: large;
+    font-weight: 600;
+    width: 100px;
+    height: 50px;
+    background-color: white;
+    align-items: center;
+    padding-top: 18px;
+    padding-left: 24px;
+    color: rgb(0, 0, 0);
+}
+
+#four:hover {
+
+    width: 100px;
+    height: 50px;
+    background-color: rgb(255, 230, 230);
+    align-items: center;
+    padding-top: 16px;
+    padding-left: 24px;
+    color: black;
+    transform: scale(1.2);
+}
+* {
+
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+#HOME{
+    color: black;
+    width: 250px;
+    height: 50px;
+    padding-top: 18px;
+    padding-left: 18px;
+    text-decoration: none;
+    align-items: center;
+}
+#HOME:hover{
+background-color: aliceblue;
+    color: black;
+    width: 100px;
+    height: 50px;
+    padding-top: 15px;
+    padding-left: 18px;
+border-radius: 100PX;
+    align-items: center;
+
+}
+#login{
+    text-decoration: none;
+    
+}
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}

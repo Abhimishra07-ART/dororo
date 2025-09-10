@@ -1,0 +1,251 @@
+#navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(159, 35, 35);
+    color: aliceblue;
+    margin-bottom: 100px;
+
+}
+
+#one {
+    font-size: large;
+    font-weight: 600;
+    width: 100px;
+}
+#whole{
+    
+    
+    height: 400px;
+    width: 300px;
+    text-align: center;
+    
+}
+#too{
+    padding-top: 50px;
+    padding-left: 30px;
+    width: 200px;
+}
+
+
+/* #two {
+    font-size: large;
+    font-weight: 600;
+    width: 220px;
+} */
+#name{
+    padding-bottom:9px;
+
+}
+#phone{
+    padding-left: 29px;
+}
+#gen{
+    padding-left: 29px;
+}
+#email{
+    padding-left: 29px;
+}
+#city{
+    padding-left: 29px;
+}
+#hos{
+    padding-left: 29px;
+}
+#but{
+    padding-left: 29px;
+    padding-top: 1px;
+}
+#but1{
+    width: 80px;
+    color:red
+    ;
+}
+
+
+
+#one {
+    font-size: large;
+    font-weight: 600;
+    
+
+    padding-right: 15px;
+
+
+}
+
+/* #two {
+    font-size: large;
+    font-weight: 600;
+    width: 220px;
+} */
+
+#three {
+    font-size: large;
+    font-weight: 600;
+    width: 219px;
+    
+}
+
+#one:hover {
+    background-color: aliceblue;
+    height: 50px;
+    padding-top: 15px;
+    transform: scale(1.2);
+
+
+}
+#HOME{
+    height:60px ;
+    width: 150px;
+}
+
+#two:hover {
+    background-color: aliceblue;
+    color: black;
+    width: 160px;
+    height: 50px;
+    padding-top: 18px;
+    padding-left: 12px;
+    border-radius: 100PX;
+    align-items: center;
+
+
+}
+
+#three:hover {
+    background-color: aliceblue;
+    color: black;
+    width: 219px;
+    height: 50px;
+    padding-top: 18px;
+    padding-right: 0px;
+    
+    align-items: center;
+
+
+
+}
+
+#ee:hover {
+    /* border-radius: 10PX; */
+    background-color: aliceblue;
+    color: black;
+    
+    height: 50px;
+    padding-top: 16px;
+    padding-left: 5px;
+    text-decoration: none;
+    align-items: center;
+}
+
+#ee {
+    font-size: large;
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+    width: 170px;
+
+}
+
+#blood {
+    /* background-color: aliceblue; */
+    color: black;
+    width: 250px;
+    height: 50px;
+    padding-top: 15px;
+    padding-left: 18px;
+    text-decoration: none;
+    align-items: center;
+}
+
+#blood:hover {
+    font-size: large;
+    font-weight: 600;
+
+    color: rgb(0, 0, 0)
+        /* text-decoration: none; */
+
+}
+
+#four {
+    font-size: large;
+    font-weight: 600;
+    width: 100px;
+    height: 50px;
+    background-color: white;
+    align-items: center;
+    padding-top: 18px;
+    padding-left: 24px;
+    color: rgb(0, 0, 0);
+}
+
+#four:hover {
+
+    width: 100px;
+    height: 50px;
+    background-color: rgb(255, 230, 230);
+    align-items: center;
+    padding-top: 16px;
+    padding-left: 24px;
+    color: black;
+    transform: scale(1.2);
+}
+
+* {
+
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+#HOME {
+    color: black;
+    width: 250px;
+    height: 50px;
+    padding-top: 18px;
+    padding-left: 18px;
+    text-decoration: none;
+    align-items: center;
+}
+
+#HOME:hover {
+    background-color: aliceblue;
+    color: black;
+    width: 100px;
+    height: 50px;
+    padding-top: 15px;
+    padding-left: 18px;
+    border-radius: 10px;
+    align-items: center;
+
+}
+
+#login {
+    color: black;
+    text-decoration: none;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#whole {
+    
+    border: solid;
+    border-color: rgb(159, 35, 35);
+    border-radius: 10px;
+
+    align-items: center;
+    padding-top: 40px;
+
+    height: 400px;
+    width: 450px;
+    margin-left: 40%;
+}
+#rom{
+    padding-top: 40px;
+}
